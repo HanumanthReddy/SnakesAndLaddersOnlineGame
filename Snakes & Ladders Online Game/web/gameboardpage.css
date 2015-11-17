@@ -1,0 +1,163 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 20 Feb, 2015, 4:57:17 PM
+    Author     : hanumanthreddy
+*/
+
+body
+{
+    background-color: lightgoldenrodyellow;
+}
+
+#mainhead
+{
+    color: darkblue;
+    text-align: center;
+}
+
+#links
+{
+    float: left;
+    width: 200px;
+    height: 200px;
+    padding: 40px;
+    margin-left: 50px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    border-radius: 7px;
+    font-size: 120%;
+}
+
+.no_und a
+{
+    text-decoration: none;
+}
+
+#middle
+{
+    text-align: center;
+    width:795px;
+    height: 240px;
+    padding: 20px;
+    margin-left: 400px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    border-radius: 7px;
+}
+
+#h2
+{
+    text-align: center;
+    color: blueviolet;
+}
+
+#p1
+{
+    text-align: left;
+}
+
+#img
+{
+    position: relative;
+    margin-left: -10px;
+} 
+
+#player {
+    
+    margin: 33px 12px;
+    border: 1px solid black;
+}
+
+#roll
+{
+    text-align: center;
+    width:510px;
+    height: 170px;
+    padding: 20px;
+    margin-left: 660px;
+    margin-top: 90px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    border-radius: 15px;
+}
+
+#score
+{
+    text-align: center;
+    width:590px;
+    height: 200px;
+    padding: 20px;
+    margin-left: 620px;
+    margin-top: -60px;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
+    border-radius: 15px;
+}
+
+
+.button
+{
+    background-color: whitesmoke;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    border: 0px;
+    color: darkblue;
+    font-size: 200%;
+    font-family: "Times New Roman", Georgia, serif;
+}
+
+
+#p
+{
+    color: brown;
+}
+#p2
+{
+    color: darkred;
+    font-size: 92%;
+    font-family: "Times New Roman", Times, serif;
+}
+
+
+a:link { color: blueviolet; }
+a:visited { color: darkmagenta; }
+a:hover { color: #FF00FF; text-decoration: underline; }
+a:active { color: #0000FF; text-decoration: underline; }
+
+
+
+th, td
+{
+    border: 0px solid black;
+    border-collapse: collapse;
+    padding: 25px;
+}
+.table1
+{
+    empty-cells:show;
+    border: 1px solid black;
+    position: absolute;
+    left: 45px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(s1.jpg);
+}
+
+.table2
+{
+    
+}
