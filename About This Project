@@ -1,0 +1,6 @@
+This Project is developed by using HTML, CSS, Servlets, JavaScript, JSP, MySQL and Apache Tomcat.
+
+Features:
+    >. It is developed to play the Snakes & Ladders game from different places through Online.
+    >. Two to four players can be able to play and resume their game at any time and data is stored securely.
+    >. Users must be register and form team in order to access and play.
